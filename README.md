@@ -8,4 +8,4 @@ tested on Ubuntu 17.
 
 * sudo ./1.sudo_inst_env.sh
 * ./2.copysrc.sh
-* ./3.build.sh
+* ./3.sudo_build.sh
